@@ -1,2 +1,2 @@
 # PrivateChain
-test chain
+test chain --  Ethereum and Solidity
